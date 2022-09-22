@@ -1,10 +1,10 @@
 ### Hi, there 💜
 
 
-- I’m Scarlet, 26 yo. 
-- Completing a degree in Environmental Engineering.
-- Experienced in the commercial area, facing a transition to tech.
-- I’m currently a Generation Brasil student (Java Full-Stack).
+- 👩 I’m Scarlet, 26 yo. 
+- 💻 I'm interested in Software Development and everything that involves technology.
+- ☕️ I’m currently a Generation Brasil student (Java Full-Stack).
+- 🤲🏼 Always willing to collaborate and receive collaboration.
 
 ---
 
