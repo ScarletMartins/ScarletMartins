@@ -1,7 +1,7 @@
 ### Hi, there 💜
 
 
-- 👩 I’m Scarlet, 26 yo. 
+- 👩 I’m Scarlet, 27 yo. 
 - 💻 I'm interested in Software Development and everything that involves technology.
 - ☕️ I’m currently a Generation Brasil student (Java Full-Stack).
 - 🤲🏼 Always willing to collaborate and receive collaboration.
