@@ -10,8 +10,11 @@
 ### General infos ✨
 
 <div align="center">
-  <a href="https://github.com/ScarletMartins">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=ScarletMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/ScarletMartins">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ScarletMartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
+
+<div align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScarletMartins&layout=compact&langs_count=7&theme=dark"/>
   <a href="https://app.daily.dev/scarlet"><img src="https://api.daily.dev/devcards/f0fdd73dc7af4462a72cc1cb4caeb214.png?r=d5q" width="150" alt="Scarlet's Dev Card"/></a>
 </div>
