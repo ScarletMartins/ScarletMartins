@@ -1,9 +1,6 @@
 ### Hi, there 💜
 
-- 👩 I’m Scarlet, 27 yo. Living in Columbus, USA 
-- 💻 I'm interested in Software Development and everything that involves technology
-- ☕️ I graduated as Junior Full Stack Java Developer - Generation Brasil
-- 🤲🏼 Always willing to collaborate and receive collaboration
+- 👩 I'm Scarlet, 27 years old. A junior Brazilian web developer living in Columbus, USA. Interested in Software Development and everything that involves technology.
 
 ---
 
