@@ -4,7 +4,7 @@
 
 ---
 
-### General infos ✨
+### ✨ General infos 
 
 <div align="center">
 <a href="https://github.com/ScarletMartins">
