@@ -1,6 +1,6 @@
 ### Hi, there 💜
 
-- 👩 I'm Scarlet, 29 years old. A junior Brazilian web developer living in Cincinnati, USA. Interested in Software Development and everything that involves technology.
+- 👩 I'm Scarlet, 31 years old. A junior Brazilian web developer living in Cincinnati, USA. Interested in Software Development and everything that involves technology.
 
 ---
 
